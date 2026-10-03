@@ -1,0 +1,10 @@
+# Standard Data Card
+dataset_details:
+  dataset_id: "DAT-CYBER-EXPOSURE-GOVERNANCE-PLATFORM-PRODUCT-01"
+  dataset_name: "cyber-exposure-governance-platform-product Training & Context Corpus"
+  contains_pii: false
+  sanitization_applied: true
+  retention_period_years: 5
+licensing:
+  copyright_cleared: true
+  reciprocal_copyleft_free: true
